@@ -2,4 +2,6 @@
 - Nama lengkap : Dwiki Umbu Dawa
 - NPM : 230712437
 - Username GitHub : umbudawa
-- Peminatan :software Developer.
+- Peminatan : Software Developer
+- No Telp : 081337129625
+- Email : umbudawa13@gmail.com
