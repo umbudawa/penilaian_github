@@ -1,0 +1,9 @@
+Jadwal Matkul:
+Manajemen Proyek B (Senin sesi 4)
+Etika Profesi D (Selasa sesi 2)
+Pengujian Perangkat Lunak A (Selasa sesi 3)
+Desain Interaksi A (Rabu sesi 2)
+Logika Komputasional C (Rabu sesi 3)
+Sosio-Informatika B (Kamis sesi 3)	
+Pemrograman Aplikasi Web A (Jumat sesi 2)
+Pemrograman Web Dasar F (Jumat sesi 3)
